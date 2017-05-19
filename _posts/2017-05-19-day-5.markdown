@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Day 5"
+date:   2017-05-19 08:00:00 +0700
+categories: "100days"
+---
+
+#### Body
+*Weight*: 75.3kg
+
+#### Mahjong
+
+05/19 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051913gm-00c1-0000-476dbf68&tw=2">Replay</a> | 3 | -18.0
+05/19 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051913gm-00c1-0000-f7e6def4&tw=1">Replay</a> | 2 | +3.0
+05/19 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051913gm-00c1-0000-7ee60c26&tw=0">Replay</a> | 4 | -38.0
+05/19 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051915gm-00c1-0000-4f5c25b7&tw=3">Replay</a> | 1 | +50.0
+05/19 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051916gm-00c1-0000-a84dfe22&tw=0">Replay</a> | 1 | +42.0
+05/19 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051917gm-00c1-0000-842af2c7&tw=2">Replay</a> | 3 | -13.0
+05/19 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051917gm-00c1-0000-a6b956ab&tw=3">Replay</a> | 1 | +43.0
+05/19 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051917gm-00c1-0000-13a56690&tw=1">Replay</a> | 3 | -14.0
+
+8 games, average 2.25, R1746
