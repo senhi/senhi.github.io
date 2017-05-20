@@ -10,13 +10,8 @@ categories: "100days"
 
 #### Mahjong
 
-05/17 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051713gm-00c1-0000-b9567917&tw=0">Replay</a> | 3 | -21.0
-05/17 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051713gm-00c1-0000-cf436545&tw=0">Replay</a> | 1 | +40.0
-05/17 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051714gm-00c1-0000-a4c168ae&tw=2">Replay</a> | 4 | -29.0
-05/17 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051715gm-00c1-0000-17768bc4&tw=0">Replay</a> | 4 | -33.0
-05/17 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051716gm-00c1-0000-a793b91c&tw=3">Replay</a> | 3 | -20.0
-05/17 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051717gm-00c1-0000-ca481de1&tw=3">Replay</a> | 4 | -40.0
-05/17 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051801gm-00c1-0000-0288bec8&tw=0">Replay</a> | 4 | -42.0
-05/17 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051801gm-00c1-0000-3bbb9b9f&tw=2">Replay</a> | 1 | +43.0
+05/20 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052011gm-00c1-0000-569db798&tw=3">Replay</a> | 3 | -17.0
+05/20 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052011gm-00c1-0000-d81c6bbc&tw=0">Replay</a> | 3 | -15.0
+05/20 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052012gm-00c1-0000-4998db80&tw=3">Replay</a> | 1 | +47.0 | 三段
 
-8 games, average 3.0, R1719
+
