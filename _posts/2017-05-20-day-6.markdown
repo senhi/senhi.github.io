@@ -15,3 +15,5 @@ categories: "100days"
 05/20 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052011gm-00c1-0000-d81c6bbc&tw=0">Replay</a> | 3 | -15.0
 05/20 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052012gm-00c1-0000-4998db80&tw=3">Replay</a> | 1 | +47.0 | 三段
 05/20 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052012gm-00c1-0000-3165c867&tw=3">Replay</a> | 1 | +46.0
+05/20 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052014gm-00c1-0000-2898f32f&tw=1">Replay</a> | 3 | -16.0
+  
