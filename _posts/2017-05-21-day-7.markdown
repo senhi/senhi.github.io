@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Day 7"
+date:   2017-05-21 13:13:00 +0700
+categories: "100days"
+---
+
+#### Mahjong
+
+05/21 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052120gm-00c1-0000-661f4d14&tw=1">Replay</a> | 1 | +52.0
+05/21 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052120gm-00c1-0000-2f3dae0a&tw=0">Replay</a> | 1 | +44.0
+05/21 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052120gm-00c1-0000-21f2b595&tw=0">Replay</a> | 3 | -18.0
+05/21 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052123gm-00c1-0000-0d1e5b9c&tw=1">Replay</a> | 1 | +57.0
+05/21 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052123gm-00c1-0000-fa1bfb33&tw=0">Replay</a> | 3 | -25.0
+05/21 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052202gm-00c1-0000-d94d8ff9&tw=3">Replay</a> | 2 | +2.0
+05/21 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052202gm-00c1-0000-2326e01d&tw=2">Replay</a> | 4 | -35.0
+05/21 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052203gm-00c1-0000-68dfbc72&tw=3">Replay</a> | 2 | +4.0
+
+
+8 games, average 2.125, R 1772
+
+
+#### Body
+
+*Weight* : 75.8
