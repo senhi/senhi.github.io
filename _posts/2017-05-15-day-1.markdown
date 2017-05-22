@@ -5,8 +5,6 @@ date:   2017-05-15 13:13:00 +0700
 categories: "100days"
 ---
 
-#### Mahjong
-
 05/15 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051515gm-00c1-0000-213dea77&tw=2">Replay</a> | 1 | +53.0
 05/15 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051516gm-00c1-0000-9b422faa&tw=3">Replay</a> | 1 | +46.0
 05/15 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051516gm-00c1-0000-5bad5476&tw=2">Replay</a> | 1 | +53.0
@@ -18,7 +16,3 @@ categories: "100days"
 
 8 games, average 1.5, R 1741
 
-
-#### Body
-
-*Kettlebell swing* 7 times x 8 sets , 15/45 rate

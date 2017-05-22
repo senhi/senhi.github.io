@@ -5,8 +5,6 @@ date:   2017-05-21 13:13:00 +0700
 categories: "100days"
 ---
 
-#### Mahjong
-
 05/21 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052120gm-00c1-0000-661f4d14&tw=1">Replay</a> | 1 | +52.0
 05/21 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052120gm-00c1-0000-2f3dae0a&tw=0">Replay</a> | 1 | +44.0
 05/21 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052120gm-00c1-0000-21f2b595&tw=0">Replay</a> | 3 | -18.0
@@ -18,8 +16,3 @@ categories: "100days"
 
 
 8 games, average 2.125, R 1772
-
-
-#### Body
-
-*Weight* : 75.8

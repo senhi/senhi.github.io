@@ -5,11 +5,6 @@ date:   2017-05-16 11:10:00 +0700
 categories: "100days"
 ---
 
-#### Body
-*Weight*: 75.8kg
-
-#### Mahjong
-
 05/16 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051612gm-00c1-0000-d0b1d364&tw=2">Replay</a> | 1 | +41.0
 05/16 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051613gm-00c1-0000-c6578902&tw=2">Replay</a> | 3 | -28.0
 05/16 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017051614gm-00c1-0000-cc46b70d&tw=2">Replay</a> | 2 | +7.0
