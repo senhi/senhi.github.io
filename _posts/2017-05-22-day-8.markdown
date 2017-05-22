@@ -6,15 +6,15 @@ categories: "100days"
 ---
 
 05/22 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052213gm-00c1-0000-5cff99bd&tw=3">Replay</a> | 1 | +52.0
-05/22 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052215gm-00c1-0000-ba1a2df0&tw=1">Replay</a> | 2 | +3.0
 05/22 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052216gm-00c1-0000-241bd4c2&tw=2">Replay</a> | 4 | -30.0
 05/22 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052217gm-00c1-0000-97d2d38f&tw=3">Replay</a> | 4 | -34.0
 05/22 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052217gm-00c1-0000-2527b4ab&tw=2">Replay</a> | 2 | +1.0
 05/22 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052217gm-00c1-0000-dba693d7&tw=2">Replay</a> | 3 | -23.0
 05/22 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052217gm-00c1-0000-6206d6a9&tw=1">Replay</a> | 1 | +44.0
 05/22 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052218gm-00c1-0000-9ccbd785&tw=2">Replay</a> | 2 | +6.0
+05/22 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052219gm-00c1-0000-aee52cc5&tw=3">Replay</a> | 3 | -22.0
 
 
-8 games, average 2.375, R1776
+8 games, average 2.5, R1771
 
 
