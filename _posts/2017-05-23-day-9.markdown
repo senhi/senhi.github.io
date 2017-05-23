@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Day 9"
+date:   2017-05-23 09:00:00 +0700
+categories: "100days"
+---
+
+05/23 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052314gm-00c1-0000-4721340f&tw=0">Replay</a> | 4 | -45.0
+05/23 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052315gm-00c1-0000-7c4a929b&tw=0">Replay</a> | 1 | +57.0
+05/23 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052315gm-00c1-0000-ae8dd79b&tw=3">Replay</a> | 1 | +44.0
+05/23 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052317gm-00c1-0000-a52c6e6c&tw=1">Replay</a> | 1 | +47.0
+05/23 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052317gm-00c1-0000-eef26ebd&tw=2">Replay</a> | 2 | +7.0
+05/23 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052318gm-00c1-0000-23b4cb4e&tw=0">Replay</a> | 4 | -41.0
+05/23 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052318gm-00c1-0000-328b2495&tw=0">Replay</a> | 3 | -13.0
+05/23 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052319gm-00c1-0000-75cb37d7&tw=0">Replay</a> | 4 | -40.0
+
+
+? games, average 2.5, R1764
+
