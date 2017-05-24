@@ -10,7 +10,9 @@ categories: "100days"
 05/24 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052415gm-00c1-0000-b3c4a8a6&tw=3">Replay</a> | 1 | +43.0
 05/24 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052416gm-00c1-0000-c31408cc&tw=2">Replay</a> | 4 | -43.0
 05/24 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052417gm-00c1-0000-74812721&tw=2">Replay</a> | 3 | -22.0
+05/24 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052419gm-00c1-0000-a8864e32&tw=3">Replay</a> | 2 | +18.0
+05/24 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052419gm-00c1-0000-be54b074&tw=1">Replay</a> | 2 | +5.0
 
 
-? games, average ?, R?
+8 games, average 2.5, R1757
 
