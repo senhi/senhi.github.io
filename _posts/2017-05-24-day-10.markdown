@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Day 10"
+date:   2017-05-24 09:00:00 +0700
+categories: "100days"
+---
+05/24 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052413gm-00c1-0000-b255b1f1&tw=2">Replay</a> | 2 | +8.0
+05/24 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052414gm-00c1-0000-fde6728d&tw=3">Replay</a> | 4 | -39.0
+05/24 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052415gm-00c1-0000-66e7ab7f&tw=0">Replay</a> | 2 | +11.0
+05/24 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052415gm-00c1-0000-b3c4a8a6&tw=3">Replay</a> | 1 | +43.0
+05/24 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052416gm-00c1-0000-c31408cc&tw=2">Replay</a> | 4 | -43.0
+05/24 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052417gm-00c1-0000-74812721&tw=2">Replay</a> | 3 | -22.0
+
+
+? games, average ?, R?
+
