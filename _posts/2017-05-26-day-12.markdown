@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Day 12"
+date:   2017-05-26 09:00:00 +0700
+categories: "100days"
+---
+05/26 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052613gm-00c1-0000-97c244ed&tw=0">Replay</a> | 2 | +4.0
+05/26 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052617gm-00c1-0000-59e6a52f&tw=3">Replay</a> | 1 | +44.0
+05/26 | 上東喰赤速 | <a href="http://tenhou.net/0/?log=2017052618gm-00c1-0000-1cdf1bcc&tw=0">Replay</a> | 2 | +10.0
+
+
+
+
+? games, average ?, R ?
+
